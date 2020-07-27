@@ -1,0 +1,17 @@
+							Installing XAMPP,PHP on Windows
+
+(1.)Go to www.apachefriends.org/en/xampp-windows.html
+
+(2.) Click the Installer link under the Basic Package listing to download the installer version. The downloaded file is named xampp-win32-1.6.4-installer.exe. Save the downloaded file on your hard disk or desktop.
+
+(3.)Navigate to the location where you saved the downloaded XAMPP file.
+
+(4.) Double-click the file name. The Installation Wizard starts.
+
+(5.) Read and click through the next few windows until the Choose Install Location.
+
+(6.) Under the "SERVICE SECTION", check Apache and MySQL.
+
+(7) Click Install. The installation process takes a few minutes to complete. As the installation proceeds, you will see various files/components being installed on your system, in the location you specified.
+
+(8.) Click Finish.

@@ -1,0 +1,32 @@
+Laravel From scratch
+
+First install composer
+
+install laravel
+
+1)install laravel with composer
+composer global require laravel/installer
+
+2)finish install laravel
+
+3)create new laravel project using composer
+composer create-project --prefer-dist laravel/laravel blog
+
+4)complete create project then run laravel project on browser
+php artisan serve
+
+folder structure of laravel project
+app
+bootstrap
+config
+database
+public
+resources
+routes
+storage
+tests
+vendor
+.env
+composer.json
+server.php
+webpack.mix.js

@@ -1,0 +1,13 @@
+					Installing Sublime Text Editor.
+
+
+(1) Download the .exe package from the official website as shown below −
+    https://www.sublimetext.com/3
+
+(2)  Now, run the executable file. This defines the environment variables. When you run the executable file
+
+(3) Now, choose a destination location to install Sublime Text3 and click Next.
+
+(4) Verify the destination folder and click Install.
+
+(5) Now, click Finish to complete the installation

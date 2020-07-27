@@ -1,0 +1,9 @@
+1)download composer from getcomposer.org
+
+2)download Composer-setup.exe file
+
+3)install the setup
+
+4)select install path
+
+5)finish
